@@ -1,2 +1,3 @@
 # SignUpForm
-This is a sign up form
+This is a sign up form.
+
